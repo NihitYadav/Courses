@@ -1,0 +1,14 @@
+{
+  "name": "coursesapp",
+  "version": "1.0.0",
+  "description": "courses app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nihit Yadav",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
